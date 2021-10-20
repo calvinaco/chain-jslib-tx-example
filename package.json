@@ -1,0 +1,16 @@
+{
+  "name": "chain-jslib-tx-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@crypto-org-chain/chain-jslib": "1.0.2",
+    "axios": "0.23.0",
+    "ts-node": "10.3.0"
+  }
+}
